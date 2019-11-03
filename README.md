@@ -78,3 +78,21 @@ I use stop words to filter and erase common words like the, a, that, and etc.
 
 ### 5. Present data into Chart and Wordcloud
 
+Here is the results :
+
+#### Categories
+
+![My Favorite Category - Gun Chart](https://raw.githubusercontent.com/aprealian/Analysis-Favorit-Youtube-Video-using-Selenium-and-Beautiful-Soup-Python/master/results/My%20Youtube%20Favorite%20Category.png)
+
+#### Channels
+
+![My Favorite Channel - Gun Chart](https://raw.githubusercontent.com/aprealian/Analysis-Favorit-Youtube-Video-using-Selenium-and-Beautiful-Soup-Python/master/results/My%20Youtube%20Favorite%20Channel.png)
+
+
+#### Titles and Tags
+
+![My Favorite Titles - Word Cloud](https://github.com/aprealian/Analysis-Favorit-Youtube-Video-using-Selenium-and-Beautiful-Soup-Python/blob/master/results/Youtube%20by%20Title.png)
+
+![My Favorite Titles - Gun Chart](https://github.com/aprealian/Analysis-Favorit-Youtube-Video-using-Selenium-and-Beautiful-Soup-Python/blob/master/results/Youtube%20Bar%20Title.png)
+
+![My Favorite Tags - Word Cloud](https://raw.githubusercontent.com/aprealian/Analysis-Favorit-Youtube-Video-using-Selenium-and-Beautiful-Soup-Python/master/results/Youtube%20by%20Tag.png)
