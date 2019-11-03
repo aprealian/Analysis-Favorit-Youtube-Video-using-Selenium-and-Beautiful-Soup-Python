@@ -27,7 +27,7 @@ Youtube is a video streaming services platform owned by Google where you can wat
 
 
 ## The Goal 
-* The goal of this project is to give me information about: 
+The goal of this project is to give me information about: 
 * The topics that mostly I like based on the category.
 * My favorite channels.
 * What the words that commonly appear on the video that I like based on the title and tagging. 
