@@ -5,7 +5,7 @@ Okay, this project was started on Saturday, 19 October 2019. At first, the reaso
 
 ## Introduction 
 
-1. Selenium
+### 1. Selenium
 
 So, what is Selenium? 
 
@@ -17,11 +17,11 @@ In modern web application, it's common that they use infinite scroll to load dat
 
 Youtube uses client-side rendering and infinite scroll, to avoid the limitation I use Selenium which commonly used for automation testing. With this library, you can control a web browser and interact with the website. I used it to load all Youtube data on the page using the Chrome browser and then scrapping it.
 
-2. Beautiful Soup
+### 2. Beautiful Soup
 
 Beautiful Soup is a Python library that use for data extraction of HTML and XML files. That is my favorite library to scrape and parse the HTML web page because it's easy to use and save a lot of time compare to manual parsing. 
 
-3. Youtube API
+### 3. Youtube API
 
 Youtube is a video streaming services platform owned by Google where you can watch a lot of videos. Nowadays, Google opens API services for Youtube. So, it helps developers and everyone who wants to use Youtube as a 3rd party library services and to gather information.
 
